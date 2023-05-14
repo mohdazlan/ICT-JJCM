@@ -1,0 +1,14 @@
+c:\users\x1 carbon\documents\visual studio 2015\Projects\ICT - Jalan2CariMakan\ICT - Jalan2CariMakan\bin\Debug\ICT - Jalan2CariMakan.exe.config
+c:\users\x1 carbon\documents\visual studio 2015\Projects\ICT - Jalan2CariMakan\ICT - Jalan2CariMakan\bin\Debug\ICT - Jalan2CariMakan.exe
+c:\users\x1 carbon\documents\visual studio 2015\Projects\ICT - Jalan2CariMakan\ICT - Jalan2CariMakan\bin\Debug\ICT - Jalan2CariMakan.pdb
+c:\users\x1 carbon\documents\visual studio 2015\Projects\ICT - Jalan2CariMakan\ICT - Jalan2CariMakan\bin\Debug\ICT - Jalan2CariMakan.xml
+c:\users\x1 carbon\documents\visual studio 2015\Projects\ICT - Jalan2CariMakan\ICT - Jalan2CariMakan\obj\Debug\ICT - Jalan2CariMakan.vbprojResolveAssemblyReference.cache
+c:\users\x1 carbon\documents\visual studio 2015\Projects\ICT - Jalan2CariMakan\ICT - Jalan2CariMakan\obj\Debug\ICT___Jalan2CariMakan.frmLogin.resources
+c:\users\x1 carbon\documents\visual studio 2015\Projects\ICT - Jalan2CariMakan\ICT - Jalan2CariMakan\obj\Debug\ICT___Jalan2CariMakan.Resources.resources
+c:\users\x1 carbon\documents\visual studio 2015\Projects\ICT - Jalan2CariMakan\ICT - Jalan2CariMakan\obj\Debug\ICT - Jalan2CariMakan.vbproj.GenerateResource.Cache
+c:\users\x1 carbon\documents\visual studio 2015\Projects\ICT - Jalan2CariMakan\ICT - Jalan2CariMakan\obj\Debug\ICT - Jalan2CariMakan.exe
+c:\users\x1 carbon\documents\visual studio 2015\Projects\ICT - Jalan2CariMakan\ICT - Jalan2CariMakan\obj\Debug\ICT - Jalan2CariMakan.xml
+c:\users\x1 carbon\documents\visual studio 2015\Projects\ICT - Jalan2CariMakan\ICT - Jalan2CariMakan\obj\Debug\ICT - Jalan2CariMakan.pdb
+C:\Users\X1 CARBON\Documents\Visual Studio 2015\Projects\ICT - Jalan2CariMakan\ICT - Jalan2CariMakan\obj\Debug\ICT___Jalan2CariMakan.frmCustomers.resources
+C:\Users\X1 CARBON\Documents\Visual Studio 2015\Projects\ICT - Jalan2CariMakan\ICT - Jalan2CariMakan\obj\Debug\ICT___Jalan2CariMakan.frmRestaurant.resources
+C:\Users\X1 CARBON\Documents\Visual Studio 2015\Projects\ICT - Jalan2CariMakan\ICT - Jalan2CariMakan\obj\Debug\ICT___Jalan2CariMakan.frmUtama.resources
